@@ -1,5 +1,5 @@
-This documentation describes how to use the Karel automatic toothbrush for good oral hygiene.
+This documentation describes how to use the Karel automatic toothbrush for the best oral hygiene.
 
 Note that this toothbrush is totally safe to use for children, adults, pets, wildlife, and trees.
 
-The toothbrush requires v1 requirements.
+The toothbrush requires no requirements.
